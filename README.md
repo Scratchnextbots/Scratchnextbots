@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Scratchnextbots
-- 👀 I’m interested in MalwareDataBase
+- 👀 I’m interested in Malware GDI C++
 - 🌱 I’m currently learning C++ , Python, Html.
 - 💞️ I’m looking to collaborate Encode.
-- 😄 Pronouns: He/SHe
+- 😄 Pronouns: He/SHe/Just Die
 - ⚡ Fun fact: Go Make Yours Homeworks
 
 <!---
